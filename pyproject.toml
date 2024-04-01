@@ -6,11 +6,12 @@ authors = [
     { name = "Marukome0743", email = "akio.muto@bnt.benextgroup.jp" }
 ]
 dependencies = [
-    "torch>=2.2.1",
-    "accelerate>=0.27.2",
-    "protobuf>=4.25.3",
+    "torch>=2.2.2",
+    "accelerate>=0.28.0",
+    "protobuf>=5.26.1",
     "sentencepiece>=0.2.0",
-    "transformers>=4.38.1",
+    "transformers>=4.39.2",
+    "ipykernel>=6.29.4",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
